@@ -35,7 +35,7 @@ I am <b>Telegram File Storing Bot</b> <a href='https://telegram.dog/Plethro_Admi
 
 Subscribe ℹ️
  <a href='https://telegram.dog/joinchat/AAAAAFIN2ibGFWeYBNj2Xg'><b>1. @TM_Moviez</b></a><b>,
- </b><a href='https://telegram.dog/joinchat/AAAAAEm4tE0nftbUmrSaJg'><b>2. @Tamil_BiggBoss
+ </b><a href='https://telegram.dog/Tamil_BiggBoss'><b>2. @Tamil_BiggBoss
 
 </b></a> <b><i>and  Thanks to both of them.</i>
  </b><a href='https://telegram.dog/Plethro_Admin'><b>1. Plethro_Admin</b></a><b>, </b><a href='https://telegram.dog/TM_Adminz'><b>2. TM_Adminz</b></a>
