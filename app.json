@@ -7,7 +7,7 @@
         "files"
     ],
     "website": "https://telesco.pe/SpEcHlDe",
-    "repository": "https://github.com/SpEcHiDe/FilesBot",
+    "repository": "https://github.com/TMAdminz/TM-FilesBot",
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
