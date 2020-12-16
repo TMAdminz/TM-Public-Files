@@ -22,11 +22,12 @@ else {
 }
 
 $GLOBALS["START_MESSAGE"] = <<<EOM
-Thank you for using me <a href="https://telegram.dog/Plethro_Admin">ðŸ¤—</a>
+Thank you for using me <a href="https://telegram.dog/Plethro_Admin">❤️</a>
 
 <u><b>you can forward me any media message</b></u>, and <b><i>I might help you to create a PUBlic link</i></b>.
 
-Subscribe â„¹ï¸ <b>1. <a href="https://telegram.dog/joinchat/AAAAAFIN2ibGFWeYBNj2Xg">@TM_Moviez</a>
+Subscribe ℹ️ 
+<b>1. <a href="https://telegram.dog/joinchat/AAAAAFIN2ibGFWeYBNj2Xg">@TM_Moviez</a>
 2. <a href="https://telegram.dog/joinchat/AAAAAEm4tE0nftbUmrSaJg">@Tamil_BiggBoss</a></b> and\n\n <b><i>Thanks to both of them.</i>\n <a href="https://telegram.dog/Plethro_Admin">1. Plethro_Admin</a>, <a href="https://telegram.dog/TM_Adminz">2. TM_Adminz</a></b>\n   if you â¤ï¸ using this bot!
 EOM;
 $GLOBALS["CHECKING_MESSAGE"] = "🤔";
