@@ -28,7 +28,7 @@ Thank you for using me <a href="https://telegram.dog/Plethro_Admin">❤️</a>
 
 Subscribe ℹ️ 
 <b>1. <a href="https://telegram.dog/joinchat/AAAAAFIN2ibGFWeYBNj2Xg">@TM_Moviez</a>
-2. <a href="https://telegram.dog/joinchat/AAAAAEm4tE0nftbUmrSaJg">@Tamil_BiggBoss</a></b> and\n\n <b><i>Thanks to both of them.</i>\n <a href="https://telegram.dog/Plethro_Admin">1. Plethro_Admin</a>, <a href="https://telegram.dog/TM_Adminz">2. TM_Adminz</a></b>\n   if you â¤ï¸ using this bot!
+2. <a href="https://telegram.dog/joinchat/AAAAAEm4tE0nftbUmrSaJg">@Tamil_BiggBoss</a></b> and\n\n <b><i>Thanks to both of them.</i>\n <a href="https://telegram.dog/Plethro_Admin">1. Plethro_Admin</a>, <a href="https://telegram.dog/TM_Adminz">2. TM_Adminz</a></b>\n   if you ❤️ using this bot!
 EOM;
 $GLOBALS["CHECKING_MESSAGE"] = "🤔";
 require_once __DIR__ . "/../vendor/autoload.php";
