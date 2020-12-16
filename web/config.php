@@ -22,11 +22,24 @@ else {
 }
 
 $GLOBALS["START_MESSAGE"] = <<<EOM
-Thank you for using me <a href="https://telegram.dog/Plethro_Admin">❤️</a>
+<i>Hey....</i>
+I am <b>Telegram File Storing Bot</b> <a href='https://telegram.dog/Plethro_Admin'>😁</a>
 
-Subscribe ℹ️ 
-<b>1. <a href="https://telegram.dog/joinchat/AAAAAFIN2ibGFWeYBNj2Xg">@TM_Moviez</a>,
-2. <a href="https://telegram.dog/joinchat/AAAAAEm4tE0nftbUmrSaJg">@Tamil_BiggBoss</a></b> and\n\n\n <b><i>Thanks to both of them.</i>\n <a href="https://telegram.dog/Plethro_Admin">1. Plethro_Admin</a>, <a href="https://telegram.dog/TM_Adminz">2. TM_Adminz</a></b>\n   if you ❤️ using this bot!
+📌 <u>How to Use &amp; What are the Benefits?</u>
+<i>📤 Send Me any File. I can upload in my database. 🤗 and </i><i><u>You will get your file link.</u></i>
+
+🤔 <b><u>Benefits:</u></b>
+<i>If you have a Telegram Movie Channel! Then it will be useful to you. You can Send me your File and I'll send you link of your file. So subscribers will get the file from me 😊 and </i><b><i><u>Then your channel will not have any Copyright © Issue.🤩</u></i></b>.
+
+⚠️ <b><u>Don't Use Pornography File otherwise you will be ban </u></b>⚠️
+
+Subscribe ℹ️
+ <a href='https://telegram.dog/joinchat/AAAAAFIN2ibGFWeYBNj2Xg'><b>1. @TM_Moviez</b></a><b>,
+ </b><a href='https://telegram.dog/joinchat/AAAAAEm4tE0nftbUmrSaJg'><b>2. @Tamil_BiggBoss
+
+</b></a> <b><i>and  Thanks to both of them.</i>
+ </b><a href='https://telegram.dog/Plethro_Admin'><b>1. Plethro_Admin</b></a><b>, </b><a href='https://telegram.dog/TM_Adminz'><b>2. TM_Adminz</b></a>
+   <i>if you ❤️ using this bot!</i>
 EOM;
 $GLOBALS["CHECKING_MESSAGE"] = "🤔";
 require_once __DIR__ . "/../vendor/autoload.php";
